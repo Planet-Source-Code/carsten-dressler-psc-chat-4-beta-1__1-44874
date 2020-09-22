@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0026)http://www.intradream.com/ -->
+<HTML><HEAD><TITLE>Psc Chat 4.0</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<STYLE>A:link {
+	COLOR: #1a4b8b; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #1a4b8b; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+</STYLE>
+
+<META content="Microsoft FrontPage 5.0" name=GENERATOR></HEAD>
+<BODY text=black bgColor=#1a4b8b>
+<CENTER>
+<TABLE borderColor=black bgColor=black border=3 height="672">
+  <TBODY>
+  <TR>
+    <TD 
+    style="BACKGROUND-IMAGE: url('pictures/Intradream.jpg'); BACKGROUND-REPEAT: no-repeat" 
+    vAlign=top align=right width=700 bgColor=white height=73>
+      <SCRIPT language=JavaScript>
+<!-- Begin
+Stamp = new Date();
+year = Stamp.getYear();
+if (year < 2000) year = 1900 + year;
+document.write('<font size="1" face="arial"><B><u>' + (Stamp.getMonth() + 1) +" / "+Stamp.getDate()+ " / "+ year + '</B></u></font><BR>');
+// End -->
+      </SCRIPT>
+    </TD></TR>
+  <TR>
+    <TD colSpan=2 height="587">
+      <TABLE cellSpacing=0 cellPadding=0 width="687" height="598">
+        <TBODY>
+        <TR>
+          <TD width=702 bgColor=#000066 height=1>
+            <DIV align=center>
+            <OBJECT 
+            codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0 
+            height=25 width=600 
+            classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000>
+              <PARAM NAME="movie" VALUE="swf\line.swf">
+              <PARAM NAME="quality" VALUE="High">
+              <PARAM NAME="bgcolor" VALUE="000066">
+              <param name="_cx" value="15875">
+              <param name="_cy" value="661">
+              <param name="FlashVars" value="-1">
+              <param name="Src" value="swf\line.swf">
+              <param name="WMode" value="Window">
+              <param name="Play" value="-1">
+              <param name="Loop" value="-1">
+              <param name="SAlign" value>
+              <param name="Menu" value="-1">
+              <param name="Base" value>
+              <param name="AllowScriptAccess" value="always">
+              <param name="Scale" value="ShowAll">
+              <param name="DeviceFont" value="0">
+              <param name="EmbedMovie" value="0">
+              <param name="SWRemote" value>
+            				                     <EMBED src="\swf\line.swf" quality=high 
+            bgcolor=#000066  WIDTH=600 HEIGHT=25 
+            TYPE="application/x-shockwave-flash" 
+            PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT></DIV></TD></TR>
+        <TR>
+          <TD width=702 bgColor=#000000 height=27>
+            <DIV align=center>
+            <OBJECT 
+            codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0 
+            height=18 width=604 
+            classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000>
+              <PARAM NAME="movie" VALUE="swf\idream.swf">
+              <PARAM NAME="quality" VALUE="High">
+              <PARAM NAME="bgcolor" VALUE="000000">
+              <param name="_cx" value="13229">
+              <param name="_cy" value="661">
+              <param name="FlashVars" value="-1">
+              <param name="Src" value="swf\idream.swf">
+              <param name="WMode" value="Window">
+              <param name="Play" value="-1">
+              <param name="Loop" value="-1">
+              <param name="SAlign" value>
+              <param name="Menu" value="-1">
+              <param name="Base" value>
+              <param name="AllowScriptAccess" value="always">
+              <param name="Scale" value="ShowAll">
+              <param name="DeviceFont" value="0">
+              <param name="EmbedMovie" value="0">
+              <param name="SWRemote" value>
+             				                 <EMBED src="Movie3.swf" quality=high 
+            bgcolor=#000000  WIDTH=400 HEIGHT=25 
+            TYPE="application/x-shockwave-flash" 
+            PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT></DIV></TD></TR>
+        <TR>
+          <TD vAlign=top width=702 bgColor=#ffffff height=304>
+            <TABLE height=532 cellSpacing=0 cellPadding=0 width=698>
+              <TBODY>
+              <TR>
+                <TD vAlign=top width=198 height=532 align = right>
+                <br><br><center>
+&nbsp;</center>
+                </TD>
+                <TD valign = top borderColor=#000000 height="532" width="500" align="right">
+                  <P><div align = left>&nbsp;<IMG hspace=0 src="pictures/top.jpg" 
+                  border=0 width="496" height="135"></div>
+                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+                  <div align = left>
+                  <b>
+                    <p align="center"> 
+PLACEPICTUREHTMLHERE:
+            <br></p>
+                    </p>
+        </tr>
+
+        </TBODY></TABLE></TR></TBODY></TABLE></CENTER></BODY></HTML>
